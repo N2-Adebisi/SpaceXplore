@@ -1,0 +1,3 @@
+C:/Users/navad/OneDrive - UWE Bristol/Naveedah/All files/Programming foR Eng/Testtt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/navad/OneDrive - UWE Bristol/Naveedah/All files/Programming foR Eng/Testtt/cmake-build-debug/CMakeFiles/Testtt.dir
+C:/Users/navad/OneDrive - UWE Bristol/Naveedah/All files/Programming foR Eng/Testtt/cmake-build-debug/CMakeFiles/edit_cache.dir
