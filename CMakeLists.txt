@@ -3,4 +3,4 @@ project(Testtt C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Testtt main.c)
+add_executable(Testtt main.c SpaceX.h function.c)
