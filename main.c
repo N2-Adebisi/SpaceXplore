@@ -83,12 +83,12 @@ int main() {
         if (kbhit()) {//if any key pressed
             char ch = getch();//initialising stored  in getch() to ch
 
-            if (ch == 'W' || ch == 'A' || ch == 'S' || ch == 'D'|| ch=='w'|| ch == 'a' || ch == 's' || ch == 'd') {
+            if (ch == 'W' || ch == 'A' || ch == 'S' || ch == 'D') {
                 for (int i = 0; i < game_state.max_asteroid; i++) {
-                    moveAsteroid(&game_state, &asteroid[i]);//moving the spaceship on key pressed
+                    moveAsteroid(&game_state, &asteroid[i],&spaceship);//moving the spaceship on key pressed
                 }
                 moveSpaceship(&game_state, &spaceship, ch);//moving the spaceship on key pressed
-                collision(&game_state,&spaceship,asteroid);
+
                 printGrid(&game_state);//update the grid after spaceship has moved
             }
 

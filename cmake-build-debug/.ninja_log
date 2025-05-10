@@ -1,21 +1,7 @@
 # ninja log v5
-0	1337	7681754133466966	CMakeFiles/Testtt.dir/main.c.obj	7b6c5f82bf6aa0ed
-1338	2262	7681754142671911	Testtt.exe	9defd4374beae8e3
-6	1544	7681754432686918	CMakeFiles/Testtt.dir/main.c.obj	7b6c5f82bf6aa0ed
-1545	2451	7681754441712848	Testtt.exe	9defd4374beae8e3
-5	1382	7681755056028942	CMakeFiles/Testtt.dir/main.c.obj	7b6c5f82bf6aa0ed
-1383	2293	7681755065128144	Testtt.exe	9defd4374beae8e3
-10	2277	7682036323308903	CMakeFiles/Testtt.dir/main.c.obj	7b6c5f82bf6aa0ed
-2278	3567	7682036336095130	Testtt.exe	9defd4374beae8e3
-6	1875	7682037449109903	CMakeFiles/Testtt.dir/main.c.obj	7b6c5f82bf6aa0ed
-1876	3300	7682037463207787	Testtt.exe	9defd4374beae8e3
-6	1735	7682038514229441	CMakeFiles/Testtt.dir/main.c.obj	7b6c5f82bf6aa0ed
-1735	2848	7682038525305936	Testtt.exe	9defd4374beae8e3
-8	1393	7682045180184164	CMakeFiles/Testtt.dir/main.c.obj	7b6c5f82bf6aa0ed
-1394	2359	7682045189749445	Testtt.exe	9defd4374beae8e3
-6	1598	7683014502124324	CMakeFiles/Testtt.dir/main.c.obj	7b6c5f82bf6aa0ed
-1599	2597	7683014512052780	Testtt.exe	9defd4374beae8e3
-7	1494	7683020058950654	CMakeFiles/Testtt.dir/main.c.obj	7b6c5f82bf6aa0ed
-1496	2535	7683020069267995	Testtt.exe	9defd4374beae8e3
-7	1452	7683192179262151	CMakeFiles/Testtt.dir/main.c.obj	7b6c5f82bf6aa0ed
+80	605	7685209116950392	CMakeFiles/Testtt.dir/main.c.obj	7b6c5f82bf6aa0ed
+2	601	7685524078307422	build.ninja	2098f3c909a86cca
 1453	2850	7683192193268178	Testtt.exe	9defd4374beae8e3
+17	1160	7685722322664399	CMakeFiles/Testtt.dir/main.c.obj	7b6c5f82bf6aa0ed
+227	1219	7685722323264600	CMakeFiles/Testtt.dir/function.c.obj	d6b02abea9971ce
+1219	1824	7685722329275132	Testtt.exe	d024031a6a6b1867
